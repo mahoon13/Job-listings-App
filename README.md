@@ -1,6 +1,6 @@
 ## Overview
 
-this is my first time using Chakra UI so i had some problems with making app resposive for desktop(i started from mobile design)
+this is my first time using Chakra UI and i had some issues with making app resposive for desktop(i started from mobile design)
 
 ## The challenge
 
